@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Masala Chai,Beverages,250,70.63
+P002,Cold Coffee,Beverages,140,42.32
+P003,Mango Lassi,Beverages,270,93.87
+P004,Fresh Lime Soda,Beverages,320,92.38
+P005,Coconut Water,Beverages,180,50.94
+P006,Green Tea,Beverages,120,39.66
+P007,Espresso,Beverages,70,20.99
+P008,Smoothie Bowl,Beverages,250,83.62
+P009,Turmeric Latte,Beverages,120,40.67
+P010,Rose Sharbat,Beverages,290,81.39
+P011,Croissant,Bakery,230,85.06
+P012,Blueberry Muffin,Bakery,120,37.87
+P013,Sourdough Loaf,Bakery,270,90.09
+P014,Cinnamon Roll,Bakery,60,18.58
+P015,Chocolate Brownie,Bakery,240,86.49
+P016,Banana Bread,Bakery,230,85.78
+P017,Almond Tart,Bakery,170,67.54
+P018,Cheese Scone,Bakery,130,46.18
+P019,Garlic Bread,Bakery,240,86.84
+P020,Multigrain Toast,Bakery,250,89.43
+P021,Samosa,Snacks,240,77.9
+P022,Vada Pav,Snacks,110,38.38
+P023,Spring Roll,Snacks,70,24.03
+P024,Nachos & Dip,Snacks,80,27.82
+P025,Popcorn Chicken,Snacks,220,78.43
+P026,French Fries,Snacks,150,51.14
+P027,Onion Rings,Snacks,120,49.64
+P028,Cheese Sticks,Snacks,220,83.8
+P029,Mini Pizza,Snacks,100,39.29
+P030,Chilli Paneer Bites,Snacks,90,32.22
+P031,Paneer Butter Masala,Main Course,650,269.1
+P032,Chicken Biryani,Main Course,450,188.31
+P033,Veg Fried Rice,Main Course,580,248.01
+P034,Grilled Salmon,Main Course,300,105.96
+P035,Pasta Arrabbiata,Main Course,340,128.1
+P036,Dal Makhani,Main Course,290,128.84
+P037,Butter Chicken,Main Course,590,225.07
+P038,Mushroom Risotto,Main Course,490,190.89
+P039,Pav Bhaji,Main Course,610,241.49
+P040,Chole Bhature,Main Course,320,119.89
+P041,Gulab Jamun,Desserts,270,74.59
+P042,Chocolate Lava Cake,Desserts,280,95.14
+P043,Kulfi,Desserts,220,59.83
+P044,Cheesecake,Desserts,420,126.4
+P045,Rabdi Falooda,Desserts,110,28.02
+P046,Brownie Sundae,Desserts,120,37.53
+P047,Mango Mousse,Desserts,350,102.28
+P048,Gajar Halwa,Desserts,100,28.82
+P049,Tiramisu,Desserts,420,127.22
+P050,Panna Cotta,Desserts,410,137.79
+P051,Quinoa Salad,Health & Organic,150,55.81
+P052,Protein Shake,Health & Organic,390,137.94
+P053,Acai Bowl,Health & Organic,240,87.38
+P054,Chia Pudding,Health & Organic,190,65.26
+P055,Avocado Toast,Health & Organic,310,122.57
+P056,Detox Juice,Health & Organic,460,150.12
+P057,Oat Bowl,Health & Organic,330,104.9
+P058,Sprout Wrap,Health & Organic,470,181.91
+P059,Keto Pancakes,Health & Organic,250,90.97
+P060,Immunity Shots,Health & Organic,360,113.5
+P061,Breakfast Combo,Combo Meals,650,249.56
+P062,Lunch Thali,Combo Meals,660,252.8
+P063,Burger Meal Deal,Combo Meals,180,65.23
+P064,Snack Box,Combo Meals,190,80.35
+P065,Kids Meal,Combo Meals,720,297.48
+P066,Party Platter,Combo Meals,370,124.24
+P067,Office Box,Combo Meals,720,305.78
+P068,Date Night Special,Combo Meals,230,87.08
+P069,Festive Hamper,Combo Meals,220,89.33
+P070,Healthy Combo,Combo Meals,650,222.85
+P071,Artisan Honey,Packaged Goods,330,143.54
+P072,Cold-Pressed Oil,Packaged Goods,230,107.47
+P073,Organic Jam,Packaged Goods,310,124.37
+P074,Herbal Tea Box,Packaged Goods,370,167.61
+P075,Roasted Nuts,Packaged Goods,190,78.12
+P076,Dark Chocolate Bar,Packaged Goods,600,266.99
+P077,Granola Pack,Packaged Goods,310,133.84
+P078,Spice Kit,Packaged Goods,150,60.37
+P079,Coffee Beans 250g,Packaged Goods,260,114.1
+P080,Dried Fruits,Packaged Goods,210,84.42
