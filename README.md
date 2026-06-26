@@ -1,0 +1,2 @@
+# Insights-for-Customer-Behaviour-Sales-Analytics-for-the-Food-Beverage-Industry
+Retail Intelligence System is an end-to-end data analytics project for the Food &amp; Beverage industry. Using Python (NumPy, Pandas, Matplotlib, Seaborn), it analyzes customer behavior, sales trends, product performance, and revenue to generate actionable business insights, inventory recommendations, and data-driven marketing strategies.
